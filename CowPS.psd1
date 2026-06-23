@@ -1,0 +1,1 @@
+# CowPS Module Manifest Placeholder

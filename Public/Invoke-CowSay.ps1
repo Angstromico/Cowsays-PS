@@ -1,0 +1,1 @@
+# Invoke-CowSay function placeholder

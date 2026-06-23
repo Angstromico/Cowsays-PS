@@ -1,0 +1,1 @@
+# New-Cowacter function placeholder
